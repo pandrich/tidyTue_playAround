@@ -1,0 +1,17 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="add_offset">0</MDI>
+    <MDI key="scale_factor">1</MDI>
+    <MDI key="units">Bit Field</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">145</MDI>
+      <MDI key="STATISTICS_MEAN">12.329794851945</MDI>
+      <MDI key="STATISTICS_MINIMUM">2</MDI>
+      <MDI key="STATISTICS_STDDEV">21.825370325289</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">45.28</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
